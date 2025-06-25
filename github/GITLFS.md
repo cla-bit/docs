@@ -1,8 +1,4 @@
-# VerdictVision
-
-----
-
-## Pushing Large Files to GITHUB
+# Pushing Large Files to GITHUB via GIT LFS
 
 -----
 
